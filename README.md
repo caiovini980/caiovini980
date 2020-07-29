@@ -14,7 +14,7 @@ Actually studying ReactJS and NodeJS and I have some knowledge of Scrum and Proj
 👯 I’m looking to collaborate on any Unity3D projects and join a team.
 
 💬 Ask me about Game Development, specially Game Programming so we can learn together.
-If you have any suggestions, I will be happy to hear than.
+If you have any suggestions, I will be happy to hear them.
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
