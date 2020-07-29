@@ -1,4 +1,4 @@
-<img align="right" src="RPG characters.png" alt="RPG Characters to illustrate game development" width=350px height=350px />
+<img align="right" src="https://github.com/caiovini980/caiovini980/blob/master/RPG%20characters.png" alt="RPG Characters to illustrate game development" width=350px height=350px />
 
 ### Hi there 👋, I'm Caio
 
@@ -19,3 +19,4 @@ If you have any suggestions, I will be happy to hear than.
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
   - LinkedIn: https://www.linkedin.com/in/caio-aguiar-00872613b/
+  - Twitter: [@caiovini980](twitter.com/caiovini980)
