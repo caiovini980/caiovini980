@@ -19,4 +19,4 @@ If you have any suggestions, I will be happy to hear than.
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
   - LinkedIn: https://www.linkedin.com/in/caio-aguiar-00872613b/
-  - Twitter: [@caiovini980](twitter.com/caiovini980)
+  - Twitter: [@caiovini980](https://twitter.com/caiovini980)
