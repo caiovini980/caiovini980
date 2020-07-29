@@ -1,4 +1,4 @@
-<img align="right" src="RPG characters.png" alt="RPG Characters to illustrate game development" width=400px height=400px />
+<img align="right" src="RPG characters.png" alt="RPG Characters to illustrate game development" width=350px height=350px />
 
 ### Hi there 👋, I'm Caio
 
