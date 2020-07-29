@@ -4,8 +4,8 @@
 
 
 
-I'm a 22 years old Computer Engineer which love games and is currently learning Unity3D to make then. 
-Actually studying ReactJS and NodeJS and I have some knowledge of Scrum and Project Management.
+I'm a 22 years old Computer Engineer which love video games and I'm currently working on some personal projects on Unity3D. 
+Actually learning Unity3D, ReactJS and NodeJS. Also, I have some knowledge of Scrum and Project Management.
 
 🔭 I’m currently working on QRUP, a ecologial product that wants to reduce the amount of plastic cups in the cities, as a backend developer.
 
@@ -18,5 +18,5 @@ If you have any suggestions, I will be happy to hear them.
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
-  - LinkedIn: https://www.linkedin.com/in/caio-aguiar-00872613b/
+  - LinkedIn: [Caio Aguiar](https://www.linkedin.com/in/caio-aguiar-00872613b/)
   - Twitter: [@caiovini980](https://twitter.com/caiovini980)
