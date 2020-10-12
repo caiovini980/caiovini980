@@ -7,11 +7,11 @@
 I'm a 22 years old Computer Engineer which love video games and I'm currently working on some personal projects on Unity. 
 Actually learning Unity3D, ReactJS and NodeJS. Also, I have some knowledge of Scrum and Project Management.
 
-🔭 I’m currently working on QRUP, a ecologial product that wants to reduce the amount of plastic cups in the cities, as a backend developer.
+🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, as a Unity developer.
 
 🌱 I'm looking forward to become a Gameplay Programmer in some years.
 
-👯 I’m looking to collaborate on any Unity3D projects and join a team.
+👯 I’m looking to collaborate on any Unity projects and other opportunities.
 
 💬 Ask me about Game Development, specially Game Programming so we can learn together.
 If you have any suggestions, I will be happy to hear them.
