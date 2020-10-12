@@ -4,7 +4,7 @@
 
 
 
-I'm a 22 years old Computer Engineer which love video games and I'm currently working on some personal projects on Unity3D. 
+I'm a 22 years old Computer Engineer which love video games and I'm currently working on some personal projects on Unity. 
 Actually learning Unity3D, ReactJS and NodeJS. Also, I have some knowledge of Scrum and Project Management.
 
 🔭 I’m currently working on QRUP, a ecologial product that wants to reduce the amount of plastic cups in the cities, as a backend developer.
