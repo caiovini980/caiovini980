@@ -20,3 +20,5 @@ If you have any suggestions, I will be happy to hear them.
   - Email: caiovini.aa@gmail.com
   - LinkedIn: [Caio Aguiar](https://www.linkedin.com/in/caio-aguiar-00872613b/)
   - Twitter: [@caiovini980](https://twitter.com/caiovini980)
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiovini980&theme=dracula&show_icons=true&include_all_commits" />
