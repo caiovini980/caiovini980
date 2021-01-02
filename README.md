@@ -4,7 +4,7 @@
 
 
 
-I'm a 22 years old Computer Engineer which love video games and I'm currently working on some personal projects on Unity. 
+I'm a 22 years old Computer Engineer which love video games and I'm currently working on Yami and some personal projects. 
 Actually learning Unity3D, ReactJS and NodeJS. Also, I have some knowledge of Scrum and Project Management.
 
 🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, as a Unity developer.
