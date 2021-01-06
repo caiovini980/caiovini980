@@ -9,11 +9,11 @@ Actually learning Unity3D, ReactJS and NodeJS. Also, I have some knowledge of Sc
 
 🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, as a Unity developer.
 
-🌱 I'm looking forward to become a Gameplay Programmer in some years.
+🌱 I'm looking forward to become a great Gameplay Programmer and C# Developer in some years.
 
-👯 I’m looking to collaborate on any Unity projects and other opportunities.
+👯 I’m looking to collaborate on any Unity and C# projects and other opportunities.
 
-💬 Ask me about Game Development, specially Game Programming so we can learn together.
+💬 Ask me about C# programming, Game Development in general and culinary so we can learn together.
 If you have any suggestions, I will be happy to hear them.
 
 📫 How to reach me: 
