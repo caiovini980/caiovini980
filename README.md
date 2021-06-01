@@ -4,16 +4,16 @@
 
 
 
-I'm a 22 years old Computer Engineer which love video games and I'm currently working on Yami and some personal projects. 
-Actually learning Unity3D, more specifically Procedural Generation, Object Pooling and the beginning of art. Also, I have some knowledge of Scrum and Project Management.
+I'm a 22 years old Computer Engineer which love video games and I'm currently working on Triplano as a Unity Developer, Yami and some personal projects. 
+Actually learning animation principles. Also, I have some knowledge of Scrum and Project Management.
 
-🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, as a Unity developer.
+🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, and on Triplano as a Unity developer.
 
-🌱 I'm looking forward to become a great Gameplay Programmer and C# Developer in some years.
+🌱 I'm looking forward to become a great Gameplay Programmer and game developer in some years.
 
-👯 I’m looking to collaborate on any Unity and C# projects and other opportunities.
+👯 I’m looking to collaborate on any Unity and animation projects and other opportunities.
 
-💬 Ask me about C# programming, Game Development in general and culinary so we can learn together.
+💬 Ask me about C# programming, Game Development in general, animation and culinary so we can learn together.
 If you have any suggestions, I will be happy to hear them.
 
 📫 How to reach me: 
