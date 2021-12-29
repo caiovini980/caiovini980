@@ -4,17 +4,15 @@
 
 
 
-I'm a 22 years old Computer Engineer which love video games and I'm currently working on Triplano as a Unity Developer, Yami and some personal projects. 
-Actually learning animation principles. Also, I have some knowledge of Scrum and Project Management.
+I'm a 23 years old Game Programmer which love video games and here goes some facts about me:
 
-🔭 I’m currently working on Yami, a 2D metroidvanian game at Tumultuous Productions, and on Triplano as a Unity developer.
+🔭 I’m currently working at Triplano as a Unity developer.
 
-🌱 I'm looking forward to become a great Gameplay Programmer and game developer in some years.
+🌱 I'm always looking forward to learn something new and become a better developer.
 
-👯 I’m looking to collaborate on any Unity and animation projects and other opportunities.
+👯 I’m always open to talk about anything, specially if it's something related to game development, animation, movies and... well, anything lol.
 
-💬 Ask me about C# programming, Game Development in general, animation and culinary so we can learn together.
-If you have any suggestions, I will be happy to hear them.
+💬 I'm from Brazil, yay.
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
