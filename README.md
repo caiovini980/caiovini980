@@ -12,7 +12,7 @@ I'm a 23 years old Game Programmer which love video games and here goes some fac
 
 👯 I’m always open to talk about anything, specially if it's something related to game development, animation, movies and... well, anything lol.
 
-💬 I'm from Brazil, yay.
+💬 I'm from Brazil, so my main language is Portuguese, but can speak English pretty well (imo).
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
