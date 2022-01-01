@@ -17,6 +17,5 @@ I'm a 23 years old Game Programmer which love video games and here goes some fac
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
   - LinkedIn: [Caio Aguiar](https://www.linkedin.com/in/caio-aguiar-00872613b/)
-  - Twitter: [@caiovini980](https://twitter.com/caiovini980)
   
 [![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiovini980&theme=dracula)](https://github.com/caiovini980/github-readme-stats)
