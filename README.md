@@ -3,16 +3,19 @@
 ### Hi there 👋, I'm Caio
 
 
+I'm a 24 years old and here goes some facts about me:
 
-I'm a 23 years old Game Programmer which love video games and here goes some facts about me:
+🔭 I’m currently working at Kokku Games as a Game Developer, learning a lot of new things.
 
-🔭 I’m currently working at Triplano as a Unity developer.
+👯 I’m always open to talk about anything, specially if it's something related to games, animation, movies or cooking. 
 
-🌱 I'm always looking forward to learn something new and become a better developer.
+🐈 I have a cat.
 
-👯 I’m always open to talk about anything, specially if it's something related to game development, animation, movies and... well, anything lol.
+✈️Love to travel to eat different foods and  and meet new cultures. Countries I've visited: Brazil, Germany, Canada, US, Italy, Switzerland, Austria and Portugal.
 
-💬 I'm from Brazil, so my main language is Portuguese, but can speak English pretty well (imo).
+🎯 My goal is to work on AAA games, so I'm looking forward to improve my skills as a developer on every category.
+
+💬 I'm from Brazil, so my mother language is Portuguese. Spent to Canada to improve my English.
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
