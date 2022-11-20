@@ -15,7 +15,7 @@ I'm a 24 years old and here goes some facts about me:
 
 🎯 My goal is to work on AAA games, so I'm looking forward to improve my skills as a developer on every category.
 
-💬 I'm from Brazil, so my mother language is Portuguese. Spent to Canada to improve my English.
+💬 I'm from Brazil, so my mother language is Portuguese but feel free to reach me in English as well.
 
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
