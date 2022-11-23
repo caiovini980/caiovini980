@@ -20,5 +20,3 @@ I'm a 24 years old and here goes some facts about me:
 📫 How to reach me: 
   - Email: caiovini.aa@gmail.com
   - LinkedIn: [Caio Aguiar](https://www.linkedin.com/in/caio-aguiar-00872613b/)
-  
-[![Caio's github stats](https://github-readme-stats.vercel.app/api?username=caiovini980&theme=dracula)](https://github.com/caiovini980/github-readme-stats)
