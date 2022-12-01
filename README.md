@@ -13,7 +13,7 @@ I'm a 24 years old and here goes some facts about me:
 
 ✈️Love to travel to eat different foods and  and meet new cultures. Countries I've visited: Brazil, Germany, Canada, US, Italy, Switzerland, Austria and Portugal.
 
-🎯 My goal is to work on AAA games, so I'm looking forward to improve my skills as a developer on every category.
+🎯 My goal is to work on AAA games, so I'm looking forward to improve my skills as a developer on gameplay category.
 
 💬 I'm from Brazil, so my mother language is Portuguese but feel free to reach me in English as well.
 
