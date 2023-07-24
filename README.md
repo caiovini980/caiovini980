@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Caio
 
 
-I'm a 24 years old and here goes some facts about me:
+I'm a Game Programmer for about 3 years now:
 
 🔭 I’m currently working at Kokku Games as a Game Developer, learning a lot of new things.
 
@@ -11,9 +11,9 @@ I'm a 24 years old and here goes some facts about me:
 
 🐈 I have a cat.
 
-✈️Love to travel to eat different foods and  and meet new cultures. Countries I've visited: Brazil, Germany, Canada, US, Italy, Switzerland, Austria and Portugal.
+✈️Love to travel to eat different foods and meet new cultures. Countries I've visited: Brazil, Germany, Canada, US, Italy, Switzerland, Austria and Portugal.
 
-🎯 My goal is to work on AAA games, so I'm looking forward to improve my skills as a developer on the gameplay category.
+🎯 My goal is to work on games I'd love playing, so I'm always looking for to make my games as fun as I wish they should be.
 
 💬 I'm from Brazil, so my mother language is Portuguese but feel free to reach me in English as well.
 
