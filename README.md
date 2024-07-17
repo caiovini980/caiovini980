@@ -10,7 +10,8 @@ struct caiovini980
     // Work Experience
     const char* experience_in[]{
         "Gameplay Programming",
-        "UI Programming"
+        "UI Programming",
+        "Tools Programming"
     };
 
     const char* working_with[]{
