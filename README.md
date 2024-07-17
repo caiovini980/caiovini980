@@ -21,9 +21,9 @@ struct caiovini980
         "Make fun and interesting games" };
     
     // Notes
-    const char* note_for_reader { "Hi! I'm so happy that you're here. Hope you enjoy your stay. "
-                                  "Here you will find some game projects and collaborations that I've worked on for the past years."
-                                  "If you have some question, you can reach me on any of the icons below my profile photo."
-                                  "Let's connect!" };
+    const char* note { "Hi! I'm so happy that you're here. Hope you enjoy your stay. "
+                      "Here you will find some game projects and collaborations that I've worked on for the past years."
+                      "If you have some question, you can reach me on any of the icons below my profile photo."
+                      "Let's connect!" };
 };
 ```
