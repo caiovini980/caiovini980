@@ -61,16 +61,15 @@ struct caiovini980
     };
 
     const char* goals[]{
-        "Have a happy and sufficient life",
+        "Have a happy life",
         "Take care of my family",
         "Travel a lot", 
-        "Make fun and interesting games"
+        "Make fun games"
     };
     
     // Notes
-    const char* note { "Hi! I'm so happy that you're here. Hope you enjoy your stay. "
-                      "Here you will find some game projects and collaborations that I've worked on for the past years."
-                      "If you have some question, you can reach me on any of the icons below my profile photo."
-                      "Let's connect!" };
+    const char* note[] { "Hi!",
+                      "Here you will find some projects and collaborations that I've worked on for the past years.",
+                      "If you have some question, you can reach me on any of the icons below my profile photo." };
 };
 ```
